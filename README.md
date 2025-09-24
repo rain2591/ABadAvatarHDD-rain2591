@@ -20,3 +20,12 @@ No messing about with launch.ini as by default it is setup ready to go
 2) Power on your Xbox360 and wait for ABadAvatarHDD to load into Aurora Dashboard
 3) Configure your Content Paths to add your gams to the Aurora Dashboard
 4) Play ;)
+
+
+*IMPORTANT NOTE*
+
+If Proto server plugin is enabled as it is by default then Original Xbox games will fail to load so make sure you edit the Launch.ini in the root of the Xbox360 Hard Drive.
+
+1) Open launch.ini in root of your Xbox360 hard drive
+2) Scroll down to the section that says [PLUGINS] and go to plugin number 2 and place a ; at beginning of line so it reads as ;plugin2 = Hdd:\Aurora\Plugins\Proto.xex instead of plugin2 = Hdd:\Aurora\Plugins\Proto.xex
+3) Save the file and load Xbox360 and Proto plugin will be disabled so you can play Xbox Original games.
