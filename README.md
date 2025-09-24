@@ -20,5 +20,3 @@ No messing about with launch.ini as by default it is setup ready to go
 2) Power on your Xbox360 and wait for ABadAvatarHDD to load into Aurora Dashboard
 3) Configure your Content Paths to add your gams to the Aurora Dashboard
 4) Play ;)
-
-**Credit to "b3ncs1" on Reddit for originally authoring these HEX edits and beat me to it as i had HEX the payloads but hit a wall when i editing the profile and it kept returning as corrupted on the Xbox360, sadly he pulled the plug as he uploaded them to X360hub for testing and they were leaked before they were officially available but gave them to me officially on Reddit along with insights on how to edit in future in case of future payload updates by Grimdoomer. Hours of play testing games and runing the Xbox360 system to check for issues and cant say that i came across any of them.
