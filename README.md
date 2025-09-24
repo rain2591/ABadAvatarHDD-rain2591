@@ -12,6 +12,7 @@ Aurora 0.7b.2 (https://phoenix.xboxunity.net/)
 Proto V2.4 (https://www.freestealth.com/)
 XeUnshackle 1.03 Autostart (https://github.com/Byrom90/XeUnshackle/pull/54)
 AbadAvatarHDD (https://github.com/rain2591/badavatarHDD-rain2591/)
+NXE Aurora Skin (https://www.realmodscene.com/index.php?/topic/18985-auroranxe-nxe-skin-layout-for-aurora-07b/)
 
 No messing about with launch.ini as by default it is setup ready to go
 
@@ -20,4 +21,11 @@ No messing about with launch.ini as by default it is setup ready to go
 3) Configure your Content Paths to add your gams to the Aurora Dashboard
 4) Play ;)
 
-**Credit to "b3ncs1" on Reddit for originally authoring these HEX edits and beat me to it as i had HEX the payloads but hit a wall when i editing the profile and it kept returning as corrupted on the Xbox360, sadly he pulled the plug as he uploaded them to X360hub for testing and they were leaked before they were officially available but gave them to me officially on Reddit along with insights on how to edit in future in case of future payload updates by Grimdoomer. Hours of play testing games and runing the Xbox360 system to check for issues and cant say that i came across any of them.
+
+*IMPORTANT NOTE*
+
+If Proto server plugin is enabled as it is by default then Original Xbox games will fail to load so make sure you edit the Launch.ini in the root of the Xbox360 Hard Drive.
+
+1) Open launch.ini in root of your Xbox360 hard drive
+2) Scroll down to the section that says [PLUGINS] and go to plugin number 2 and place a ; at beginning of line so it reads as ;plugin2 = Hdd:\Aurora\Plugins\Proto.xex instead of plugin2 = Hdd:\Aurora\Plugins\Proto.xex
+3) Save the file and load Xbox360 and Proto plugin will be disabled so you can play Xbox Original games.
