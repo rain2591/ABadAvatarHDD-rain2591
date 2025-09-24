@@ -1,0 +1,21 @@
+{
+  "smcversion" : "%s",
+  "avpack" : %d,
+  "traystate" : %d,
+  "dvdmediatype" : %d,
+  "tiltstate" : %d,
+  "temperature" : 
+  {
+    "celsius" : %s,
+    "target" : {
+	  "cpu" : %4.2f,
+	  "gpu" : %4.2f,
+	  "memory" : %4.2f
+	},
+	"max" : {
+	  "cpu" : %4.2f,
+	  "gpu" : %4.2f,
+	  "memory" : %4.2f
+	}
+  }
+}

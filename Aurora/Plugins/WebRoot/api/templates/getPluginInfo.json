@@ -1,0 +1,1 @@
+{"version":{"number":{"major":%d,"minor":%d,"build":%d,"type":%d},"api":%d},"path":{"root":"%s","user":"%s","web":"%s","launcher":"%s"},"features":{"multidisc":%d,"trainers":%d,"systemlink":%d,"gamepad":%d,"achievements":%d,"threads":%d,"httpdaemon":%d,"debugger":%d,"network":%d}}

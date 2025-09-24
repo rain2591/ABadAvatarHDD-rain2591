@@ -1,0 +1,69 @@
+{
+	"parsed" : true,
+	"mediatype" : "1",
+	"gametitlemediaid" : "",
+	"reducedtitle" : "Aurora",
+	"reduceddescription" : "Aurora is a new dashboard for the Xbox 360, created by Phoenix, a small group of developers not unfamiliar to the homebrew scene.",
+	"availabilitydate" : "2014-07-01T00:00:00",
+	"releasedate" : "2014-07-01T00:00:00",
+	"ratingid" : "40",
+	"developer" : "Phoenix",
+	"publisher" : "n/a",
+	"newestofferstartdate" : "2014-07-01T00:00:00Z",
+	"totaloffercount" : "2",
+	"totalsubscriptioncount" : "0",
+	"titleid" : "",
+	"effectivetitleid" : "",
+	"gamereducedtitle" : "Aurora",
+	"fulltitle" : "Aurora",
+	"description": "With Aurora, Phoenix has created a clean and simple dashboard.\nCombining filters and sort orders with CoverFlow allows you to jump into the action right away!\n\n<div class=\"f3 fieldname\">Some of the features Aurora offers:</div>    <ul class=\"f3 features list\">        <li>Boot straight into CoverFlow</li>        <li>Quick Browse title selector for easy access</li>        <li>Filtered and sorted CoverFlow</li>        <li><b>Compatible with Nova and LiNK</b></li>        </ul>",
+	"ratingaggregate" : "0",
+	"numberofratings" : "0",
+	"categories" : [{
+			"categoryid" : "0000",
+			"system" : "0000",
+			"name" : "Homebrew"
+		}, {
+			"categoryid" : "0001",
+			"system" : "0000",
+			"name" : "Dashboard Replacement"
+		}
+	],
+	"ratingdescriptors" : [],
+	"video" : {
+		"videodefinition" : "",
+		"videoencoding" : "",
+		"audioencoding" : "",
+		"isacquirable" : "",
+		"aspectratio" : "",
+		"resolution" : "",
+		"url" : ""
+	},
+	"images" : {
+		"icon" : "getGameFile?path=Media/Assets/Aurora.Assets.Icon.png",
+		"banner" : "getGameFile?path=Media/Assets/Aurora.Assets.Banner.png",
+		"boxart" : {
+			"small" : "getGameFile?path=Media/Assets/Aurora.Assets.Boxart.Small.png",
+			"large" : "getGameFile?path=Media/Assets/Aurora.Assets.Boxart.Large.png"
+		},
+		"background" : "getGameFile?path=Media/Assets/Aurora.Assets.Background.png",
+		"screenshots" : ["getGameFile?path=Media/Assets/Aurora.Assets.Screenshot.0001.png", "getGameFile?path=Media/Assets/Aurora.Assets.Screenshot.0002.png", "getGameFile?path=Media/Assets/Aurora.Assets.Screenshot.0003.png", "getGameFile?path=Media/Assets/Aurora.Assets.Screenshot.0004.png", "getGameFile?path=Media/Assets/Aurora.Assets.Screenshot.0005.png", "getGameFile?path=Media/Assets/Aurora.Assets.Screenshot.0006.png", "getGameFile?path=Media/Assets/Aurora.Assets.Screenshot.0007.png", "getGameFile?path=Media/Assets/Aurora.Assets.Screenshot.0008.png", "getGameFile?path=Media/Assets/Aurora.Assets.Screenshot.0009.png", "getGameFile?path=Media/Assets/Aurora.Assets.Screenshot.0010.png"]
+	},
+	"gamecapabilities" : {
+		"offlineplayersmin" : "",
+		"offlineplayersmax" : "",
+		"offlinecoopplayersmin" : "",
+		"offlinecoopplayersmax" : "",
+		"offlinesystemlinkmin" : "",
+		"offlinesystemlinkmax" : "",
+		"offlinemaxhdtvmodeid" : "",
+		"offlinedolbydigital" : "",
+		"onlinemultiplayermin" : "",
+		"onlinemultiplayermax" : "",
+		"onlinecoopplayersmin" : "",
+		"onlinecoopplayersmax" : "",
+		"onlinecontentdownload" : "",
+		"onlineleaderboards" : "",
+		"onlinevoice" : ""
+	}
+}
