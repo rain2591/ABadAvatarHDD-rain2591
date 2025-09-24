@@ -1,8 +1,8 @@
 # badavatarHDD-rain2591
 
-ABadAvatarHDD is a HEX modified copy of Abadavatar by Shutterbug (https://github.com/shutterbug2000/ABadAvatar) which is based on BadUpdate by Grimdoomer (https://github.com/grimdoomer/Xbox360BadUpdate)
+ABadAvatarHDD is a HEX modified copy of ABadAvatar by Shutterbug (https://github.com/shutterbug2000/ABadAvatar) which is based on BadUpdate by Grimdoomer (https://github.com/grimdoomer/Xbox360BadUpdate)
 
-AbadAvatarHDD is run from the Xbox360 Internal HDD instead of having to be run off of a USB stick, means no more USB sticks protruding from your system.
+ABadAvatarHDD is run from the Xbox360 Internal HDD instead of having to be run off of a USB stick, means no more USB sticks protruding from your system.
 
 All stage and profile files are HEX modified to point to the HDD locations instead of MASS, all files in this github are tested and ready to go, included within the package are all the files to get your Xbox360 running straight to Aurora.
 
@@ -18,7 +18,7 @@ No messing about with launch.ini as by default it is setup ready to go
 
 1) Drag the files into your Xbox360 Internal Hard Drive with what ever method you like
 2) Power on your Xbox360 and wait for ABadAvatarHDD to load into Aurora Dashboard
-3) Configure your Content Paths to add your gams to the Aurora Dashboard
+3) Configure your Content Paths to add your games to the Aurora Dashboard
 4) Play ;)
 
 
