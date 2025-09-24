@@ -18,7 +18,7 @@ No messing about with launch.ini as by default it is setup ready to go
 
 1) Drag the files into your Xbox360 Internal Hard Drive with what ever method you like
 2) Power on your Xbox360 and wait for ABadAvatarHDD to load into Aurora Dashboard
-3) Configure your Content Paths to add your gams to the Aurora Dashboard
+3) Configure your Content Paths to add your games to the Aurora Dashboard
 4) Play ;)
 
 
