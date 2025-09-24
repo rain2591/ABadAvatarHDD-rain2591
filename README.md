@@ -31,3 +31,5 @@ If Proto server plugin is enabled as it is by default then Original Xbox games w
 1) Open launch.ini in root of your Xbox360 hard drive
 2) Scroll down to the section that says [PLUGINS] and go to plugin number 2 and place a ; at beginning of line so it reads as ;plugin2 = Hdd:\Aurora\Plugins\Proto.xex instead of plugin2 = Hdd:\Aurora\Plugins\Proto.xex
 3) Save the file and load Xbox360 and Proto plugin will be disabled so you can play Xbox Original games.
+
+Thank you to b3ncs1 https://www.reddit.com/user/b3ncs1/ for giving me information on how to fix the corrupt profile and how to extract the asset and modify that in Horizon :)
