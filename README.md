@@ -24,6 +24,7 @@ No messing about with launch.ini as by default it is setup ready to go
 2) Power on your Xbox360 and wait for ABadAvatarHDD to load into Aurora Dashboard
 3) Configure your Content Paths to add your games to the Aurora Dashboard
 4) Play ;)
+5) Incase your X360 s not up to date then ensure your console has the Avatar update data. If you don't have an HDD, you may need to install the official offline System Update 17559 on a formatted USB.
 
 
 *IMPORTANT NOTE*
