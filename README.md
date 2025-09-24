@@ -6,7 +6,9 @@ ABadAvatarHDD is run from the Xbox360 Internal HDD instead of having to be run o
 
 All stage and profile files are HEX modified to point to the HDD locations instead of MASS, all files in this github are tested and ready to go, included within the package are all the files to get your Xbox360 running straight to Aurora.
 
-Included all ready to go in the package and setup:
+Included all ready to go in the package and setup.
+
+(24/09/2025 15:47) - Note that when you extract the package that you are left with a folder called "badavatarHDD-rain2591-1.01" for example, the contents inside this folder is what should be copied to your Xbox360 Hard Drive to work, please do not place the folder named "badavatarHDD-rain2591-1.01" straight onto the hard drive as the Xbox360 will not see them but copy those files within "badavatarHDD-rain2591-1.01" to the root of Hard Drive.
 
 Aurora 0.7b.2 (https://phoenix.xboxunity.net/)
 Proto V2.4 (https://www.freestealth.com/)
