@@ -35,3 +35,6 @@ If Proto server plugin is enabled as it is by default then Original Xbox games w
 3) Save the file and load Xbox360 and Proto plugin will be disabled so you can play Xbox Original games.
 
 Thank you to b3ncs1 https://www.reddit.com/user/b3ncs1/ for giving me information on how to fix the corrupt profile and how to extract the asset and modify that in Horizon :)
+
+****For those that want to use ABadAvatar on a Xnox360 memory unit visit this github (https://github.com/GamzMaka12/ABadMemUnit/tree/master) by GamzMaka12**** 
+https://www.reddit.com/r/360hacks/comments/1npf9qc/abadmemunit_release/
