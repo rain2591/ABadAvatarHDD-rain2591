@@ -8,6 +8,8 @@ All stage and profile files are HEX modified to point to the HDD locations inste
 
 Included all ready to go in the package and setup.
 
+(24/09/2025 16:26) - Removed release 1.00 as it had a obsolete .bak backup of the profile in the content folder and showing 2 profiles in the hard drive, if you have issues remove the previous release and use 1.01
+
 (24/09/2025 15:47) - Note that when you extract the package that you are left with a folder called "badavatarHDD-rain2591-1.01" for example, the contents inside this folder is what should be copied to your Xbox360 Hard Drive to work, please do not place the folder named "badavatarHDD-rain2591-1.01" straight onto the hard drive as the Xbox360 will not see them but copy those files within "badavatarHDD-rain2591-1.01" to the root of Hard Drive.
 
 Aurora 0.7b.2 (https://phoenix.xboxunity.net/)
