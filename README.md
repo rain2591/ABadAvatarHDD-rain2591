@@ -12,6 +12,7 @@ Aurora 0.7b.2 (https://phoenix.xboxunity.net/)
 Proto V2.4 (https://www.freestealth.com/)
 XeUnshackle 1.03 Autostart (https://github.com/Byrom90/XeUnshackle/pull/54)
 AbadAvatarHDD (https://github.com/rain2591/badavatarHDD-rain2591/)
+NXE Aurora Skin (https://www.realmodscene.com/index.php?/topic/18985-auroranxe-nxe-skin-layout-for-aurora-07b/)
 
 No messing about with launch.ini as by default it is setup ready to go
 
