@@ -2,7 +2,7 @@
 
 ABadAvatarHDD is a HEX modified copy of ABadAvatar by Shutterbug (https://github.com/shutterbug2000/ABadAvatar) which is based on BadUpdate by Grimdoomer (https://github.com/grimdoomer/Xbox360BadUpdate)
 
-AbadAvatarHDD is run from the Xbox360 Internal HDD instead of having to be run off of a USB stick, means no more USB sticks protruding from your system.
+ABadAvatarHDD is run from the Xbox360 Internal HDD instead of having to be run off of a USB stick, means no more USB sticks protruding from your system.
 
 All stage and profile files are HEX modified to point to the HDD locations instead of MASS, all files in this github are tested and ready to go, included within the package are all the files to get your Xbox360 running straight to Aurora.
 
