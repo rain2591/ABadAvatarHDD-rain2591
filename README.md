@@ -8,7 +8,10 @@ All stage and profile files are HEX modified to point to the HDD locations inste
 
 Included all ready to go in the package and setup.
 
-(26/09/2025 14:31) - Added new download at https://github.com/rain2591/badavatarHDD-rain2591/releases/tag/HelperUSB this is a barebones ABadAvatar for USB to aid those that want to be able to add ABadAvatarHDD to the internal Xbox360 hard drive, this barebones also includes just XexDash so FTP can be used. See page for details
+(28/09/2025 14:29) - Added new download at (https://github.com/rain2591/badavatarHDD-rain2591/releases/tag/HelperUSBXDON) this is a barebones ABadAvatar for USB to aid those that want to be able to add ABadAvatarHDD to the internal Xbox360 hard drive, this barebones also includes just XDON so you can connect to your Xbox360 using FatExplorer 3.0 beta. What is XDON?
+XDON (Xbox Disk Over Network) is an app that runs on your Xbox that exposes storage devices over the network. It provides the ability to perform IO operations at a raw level using a simple protocol.
+When you wanted direct disk access in the past, you would have to remove your storage device from your console and connect it to your PC. With XDON, you can now leave your storage device in place and interact with it at network speeds.
+XDON is available for both the Original Xbox and Xbox 360.
 
 (24/09/2025 16:26) - Removed release 1.00 as it had a obsolete .bak backup of the profile in the content folder and showing 2 profiles in the hard drive, if you have issues remove the previous release and use 1.01
 
