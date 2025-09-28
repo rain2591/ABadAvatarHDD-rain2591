@@ -1,21 +1,21 @@
 # ABadAvatarHDD-rain2591
 
-ABadAvatarHDD is a HEX modified copy of ABadAvatar by Shutterbug (https://github.com/shutterbug2000/ABadAvatar) which is based on BadUpdate by Grimdoomer (https://github.com/grimdoomer/Xbox360BadUpdate)
+ABadAvatarHDD is a HEX modified copy of ABadAvatar by Shutterbug2000 (https://github.com/shutterbug2000/ABadAvatar) which is based on BadUpdate by Grimdoomer (https://github.com/grimdoomer/Xbox360BadUpdate)
+
+A fork on my Github can be found here for ABadAvatar as someone on a Discord channel complained that I did not fork from Shutterbug2000s repository
+https://github.com/rain2591/ABadAvatar
+
+As i will not be contributing back to the original fork this repository will be updated only as there will not be any code worth sending back to Shutterbugs as i have hex edited the payloads as opposed to modifiying his source and recompiling it.
 
 ABadAvatarHDD is run from the Xbox360 Internal HDD instead of having to be run off of a USB stick, means no more USB sticks protruding from your system.
 
 All stage and profile files are HEX modified to point to the HDD locations instead of MASS, all files in this github are tested and ready to go, included within the package are all the files to get your Xbox360 running straight to Aurora.
 
-Included all ready to go in the package and setup.
-
 (28/09/2025 14:29) - Added new download at (https://github.com/rain2591/badavatarHDD-rain2591/releases/tag/HelperUSBXDON) this is a barebones ABadAvatar for USB to aid those that want to be able to add ABadAvatarHDD to the internal Xbox360 hard drive, this barebones also includes just XDON so you can connect to your Xbox360 using FatExplorer 3.0 beta. What is XDON?
 XDON (Xbox Disk Over Network) is an app that runs on your Xbox that exposes storage devices over the network. It provides the ability to perform IO operations at a raw level using a simple protocol.
 When you wanted direct disk access in the past, you would have to remove your storage device from your console and connect it to your PC. With XDON, you can now leave your storage device in place and interact with it at network speeds.
-XDON is available for both the Original Xbox and Xbox 360.
 
-(24/09/2025 16:26) - Removed release 1.00 as it had a obsolete .bak backup of the profile in the content folder and showing 2 profiles in the hard drive, if you have issues remove the previous release and use 1.01
-
-(24/09/2025 15:47) - Note that when you extract the package that you are left with a folder called "badavatarHDD-rain2591-1.01" for example, the contents inside this folder is what should be copied to your Xbox360 Hard Drive to work, please do not place the folder named "badavatarHDD-rain2591-1.01" straight onto the hard drive as the Xbox360 will not see them but copy those files within "badavatarHDD-rain2591-1.01" to the root of Hard Drive.
+Included all ready to go in the package and setup.
 
 Aurora 0.7b.2 (https://phoenix.xboxunity.net/)
 Proto V2.4 (https://www.freestealth.com/)
