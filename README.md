@@ -2,7 +2,7 @@
 
 ABadAvatarHDD is a HEX modified copy of ABadAvatar by Shutterbug2000 (https://github.com/shutterbug2000/ABadAvatar) which is based on BadUpdate by Grimdoomer (https://github.com/grimdoomer/Xbox360BadUpdate)
 
-A fork on my Github can be found here for ABadAvatar by Shutterbug2000
+A fork on my Github can be found here for ABadAvatar as someone on a Discord channel complained that I did not fork from Shutterbug2000s repository
 https://github.com/rain2591/ABadAvatar
 
 As i will not be contributing back to the original fork this repository will be updated only as there will not be any code worth sending back to Shutterbugs as i have hex edited the payloads as opposed to modifiying his source and recompiling it.
