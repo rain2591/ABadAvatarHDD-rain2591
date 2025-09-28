@@ -1,0 +1,16 @@
+This is a very simple script, it took me 10 minutes to write.
+
+That being said, the only important line in the script that needs edited is the
+
+FanSpeedPercent= line. I default it to 75% though this can be changed to any value between 0 and 100, I would not suggest going under 55%.
+
+That being said, I only did this to show 2 things
+
+1. That Team Phoenix has given people more options than they ever dreamed, if they just learn some basic programming. 
+2. That the Whining people(You Know Who You Are) who keep going on about Fan Speed settings in aurora were not forgotten with the LUA scripting.
+
+All that being said, it would still be smarter to write a script that sets target temps, as that is actually saved to SMC_Config, and will apply every time you reboot. As it is with this version of aurora, you will need to run this script everytime you reboot.
+
+Enjoy.
+
+Gavin_Darkglider  
