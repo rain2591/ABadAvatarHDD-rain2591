@@ -17,11 +17,11 @@ When you wanted direct disk access in the past, you would have to remove your st
 
 Included all ready to go in the package and setup.
 
-Aurora 0.7b.2 (https://phoenix.xboxunity.net/)
-Proto V2.4 (https://www.freestealth.com/)
-XeUnshackle 1.03 Autostart (https://github.com/Byrom90/XeUnshackle/pull/54)
-AbadAvatarHDD (https://github.com/rain2591/badavatarHDD-rain2591/)
-NXE Aurora Skin (https://www.realmodscene.com/index.php?/topic/18985-auroranxe-nxe-skin-layout-for-aurora-07b/)
+1) Aurora 0.7b.2 (https://phoenix.xboxunity.net/)
+2) Proto V2.4 (https://www.freestealth.com/)
+3) XeUnshackle 1.02 (https://github.com/Byrom90/XeUnshackle/pull/54)
+4) AbadAvatarHDD (https://github.com/rain2591/badavatarHDD-rain2591/)
+5) NXE Aurora Skin with BGM (https://www.realmodscene.com/index.php?/topic/18985-auroranxe-nxe-skin-layout-for-aurora-07b/)
 
 No messing about with launch.ini as by default it is setup ready to go
 
