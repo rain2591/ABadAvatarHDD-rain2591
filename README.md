@@ -1,4 +1,4 @@
-# ABadAvatarHDD-rain2591
+# ABadAvatarHDD
 
 ABadAvatarHDD is a HEX modified copy of ABadAvatar by Shutterbug2000 (https://github.com/shutterbug2000/ABadAvatar) which is based on BadUpdate by Grimdoomer (https://github.com/grimdoomer/Xbox360BadUpdate)
 
